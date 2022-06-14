@@ -7,6 +7,10 @@ Projeto com o codinome *All For One* em que foi praticado todos os conceitos de 
 Foi utilizado alguns comandos SQL, como: ` SELECT`, `AS`, `CONCAT`,`DISTINCT`.`COUNT`,`LIMIT`,`OFFSET`,`ORDER BY`,`WHERE`,`LIKE`, `IN e BETWEEN`,`INSERT`,`UPDATE`,`DELETE`
 
 
+### Tecnologias:
+
+- `MySQL`
+
 ## Clone o repositório:
 
  - `git clone git@github.com:michel-oliveira8/project-mysql-all-for-one.git`
